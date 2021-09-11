@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Jules/Documents/MLflow_BankruptcyPrediction/mlruns/0/4af68cc38c0e4505be320ed2115b8871/artifacts
+end_time: 1631335932275
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 4af68cc38c0e4505be320ed2115b8871
+run_uuid: 4af68cc38c0e4505be320ed2115b8871
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1631335931067
+status: 3
+tags: []
+user_id: Jules
